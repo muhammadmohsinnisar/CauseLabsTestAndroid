@@ -1,3 +1,9 @@
+**Contents:**
+* Includes all source code files for the Android application.
+* Includes the src/ folder of the dex-patching project.
+* Detailed description of the approaches taken for each challenge.
+* A screenshot of the Android application displaying all three correct ingredients after successful completion of the first two challenges.
+
 **Approach:**
 
 * Use apkTools to unpack the apk.
