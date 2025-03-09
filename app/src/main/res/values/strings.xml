@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CauseLabsTestAndroid</string>
+    <string name="password">NaCl</string>
+    <string name="encrypted_key">c3VwZXJzZWNlcmV0a2V5IQ==</string>
+</resources>
